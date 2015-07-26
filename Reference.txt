@@ -1,0 +1,9 @@
+This Tic Tac Toe game is made possible with reference to the 
+tutorials in the links below.
+
+
+http://maxood-android-corner.blogspot.ca
+
+http://www.intelliproject.net/
+
+http://indiedevelopment.co/
